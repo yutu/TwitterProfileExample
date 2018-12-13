@@ -1,0 +1,28 @@
+PODS:
+  - AutoInsetter (1.3.0)
+  - MXParallaxHeader (0.6.1)
+  - Pageboy (2.6.1)
+  - Tabman (1.10.2):
+    - AutoInsetter (~> 1.3.0)
+    - Pageboy (~> 2.6.0)
+
+DEPENDENCIES:
+  - MXParallaxHeader
+  - Tabman
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AutoInsetter
+    - MXParallaxHeader
+    - Pageboy
+    - Tabman
+
+SPEC CHECKSUMS:
+  AutoInsetter: 0ea4dddc17042ab45114ec5d5980764efae98584
+  MXParallaxHeader: 858c403532ed933b381556a81ce333d7065ad182
+  Pageboy: c2a25d1c280e9b622014b692626f1ff9298e0ad2
+  Tabman: 6cff148419c5d8812d0e9f08f93b6f1c6ba54502
+
+PODFILE CHECKSUM: cba6601ca55a3683eda68a31b3ec173393df4199
+
+COCOAPODS: 1.5.3
